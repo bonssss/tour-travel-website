@@ -1,0 +1,22 @@
+
+Name - Croc Ranch
+Description - Walking between the masses of crocs in their concrete tanks at this facility is more humdrum than it sounds, except during feeding, which usually happens Monday and Thursday.
+
+Name - Lake Chamo
+Description - Treat yourself to a relaxing boat ride on Lake Chamo!, with An excellent four hour
+
+Name - Nech Sar Park
+Description - Nechisar National Park is one of the most beautiful landscapes in Ethiopia. The eye-catching spring waters, the great Bridge of God and the majestic Amaro Mountains, the magnificent Abaya and Chamo Lake, the giant Nile crocodiles and the amazing wildlife are the wonders of Nechisar National Park.
+
+Name - Tourist Hotel
+Description - There is a lovely garden and tables outside to eat which give it a good atmosphere even though it is in the heart of the town.Tourist hotel is one of the best hotel in the town. The atmosphere is great, food is delicious and staffs are friendly.
+
+Name - Haile Resort
+Description - Haile-Arba Minch is a 107 room four-star resort located at a grand view overlooking the twin lakes of Abaya and Chamo along the beautiful evergreen vegetation and chain of mountains that form the most beautiful pattern.
+
+Name - Paradise Lodge
+Description - Situated a 7-minute walk from Swimming Hole, Paradise Lodge Arbaminch offers accommodation with a terrace and free WiFi. Guests can enjoy meals at the onsite restaurant.All units at the lodge feature air conditioning and a flat-screen TV.
+
+Name - Dorze Lodge
+Description -  The lodge is built in a rather rough (and beautiful) environment, and staffed by local people. We have a lot of activities you can do, like beautiful hikes and trekking’s (by yourself or guided).
+
